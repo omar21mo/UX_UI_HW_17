@@ -1,0 +1,52 @@
+/* Navbar css */
+
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    }
+
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    
+}
+
+nav{
+    width: 73%;
+    padding: 1%;
+}
+
+ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+/* hero image */
+
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+/* Footer CSS */
+
+footer{
+    background-color: #373738;
+    padding:5px;
+    color: aliceblue;
+    }
+
+    button{
+        background-color: black;
+        color: white;
+        border-radius: 25px 25px 25px 25px;
+        height: 50px;
+        margin: 10px;
+    }
